@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "255283904929",
+    "firebase_url": "https://how-safe-are-you-184308.firebaseio.com",
+    "project_id": "how-safe-are-you-184308",
+    "storage_bucket": "how-safe-are-you-184308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255283904929:android:f60cb273d9ca5ad1",
+        "android_client_info": {
+          "package_name": "com.daemons.howsafeareyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255283904929-j829uge15vm5dka8qssnasjip937vm4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daemons.howsafeareyou",
+            "certificate_hash": "f008e69779847852159a500a9a4eb756ab57acd7"
+          }
+        },
+        {
+          "client_id": "255283904929-aggufqstad32jqbanueoaui81uoshsm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsW7v_GKxrnEkfg6ELYaIQRgoQoGKRKaE"
+        },
+        {
+          "current_key": "AIzaSyCQjtgMtQNR6IPyHiZLb65yl-FQXMp2i0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255283904929-aggufqstad32jqbanueoaui81uoshsm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
